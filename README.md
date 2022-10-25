@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cassidy-LeFevre
-- 👀 I’m interested in Java, HTML/CSS, SQL, C++
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on Spring projects
+- 👀 I’m interested in Java, HTML/CSS, SQL, C++, Javascript and React.
+- 🌱 I’m looking to learn AWS and python.
 - 📫 How to reach me: message me on LinkedIn https://www.linkedin.com/in/cassidy-lefevre/
 
 <!---
